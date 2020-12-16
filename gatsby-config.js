@@ -3,7 +3,7 @@ module.exports = {
     title: 'VS Code Themes',
     description: 'A list of all of my VS Code themes that I have published.',
     keywords: 'Zoko, Zoko theme, zoko, theme, dark blue theme, yellow, VS Code theme',
-    twitterHandle: '@bchiang7',
+    twitterHandle: '@danlvovsky',
     siteURL: 'https://vscodethemes.netlify.com',
   },
   plugins: [
