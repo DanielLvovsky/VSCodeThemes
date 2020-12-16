@@ -1,14 +1,14 @@
 <p align="center">
-  <img alt="Halcyon" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
+  <img alt="Halcyon" src="https://raw.githubusercontent.com/VSCodeThemes/VSCodeThemes/main/src/images/logo.png" width="100" />
 </p>
 <h1 align="center">
-  Halcyon
+  VS Code Themes
 </h1>
 <p align="center">
-  A minimal, dark blue theme for VS Code, Sublime Text, Atom, and more.
+  A list of all of my VS Code themes that I have published.
 </p>
 <p align="center">
-  <a href="https://app.netlify.com/sites/halcyon-theme/deploys">
+  <a href="https://app.netlify.com/sites/vscodethemes/deploys">
     <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/3fdb9649-ad7f-4f62-8134-a300576e58c0/deploy-status" />
   </a>
 </p>
