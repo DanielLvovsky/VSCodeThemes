@@ -13,6 +13,9 @@
   </a>
 </p>
 
+![Screenshot1](https://raw.githubusercontent.com/DanielLvovsky/VSCodeThemes/main/src/images/demo.png)
+
+
 ## 🚀 Quick start
 
 1.  **Install the Gatsby CLI.**
