@@ -1,11 +1,11 @@
 {
-  "name": "halcyon",
+  "name": "vscodethemes",
   "version": "0.1.0",
-  "description": "A minimal, dark blue theme for VS Code, Sublime Text, Atom, and more.",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "description": "A list of all of my VS Code themes that I have published.",
+  "author": "Daniel Lvovsky <danlvovsky@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/halcyon-site"
+    "url": "https://github.com/DanielLvovsky/VSCodeThemes"
   },
   "license": "MIT",
   "scripts": {
