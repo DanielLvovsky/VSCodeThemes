@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Themes" src="https://raw.githubusercontent.com/VSCodeThemes/VSCodeThemes/main/src/images/logo.png" width="100" />
+  <img alt="Themes" src="https://github.com/DanielLvovsky/VSCodeThemes/blob/main/src/images/logo.png" width="100" />
 </p>
 <h1 align="center">
   VS Code Themes
